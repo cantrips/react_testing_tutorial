@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => (
-  <div>My app</div>
+  <title>Todo List</title>
 )
 
 export default App;
